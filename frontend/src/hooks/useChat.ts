@@ -3,7 +3,7 @@ import { Message } from "types";
 import { chatAPI } from "api";
 import { useToast } from "hooks/use-toast";
 
-const STORAGE_KEY = "rhyri_session_id";
+const STORAGE_KEY = "AliX_session_id";
 
 const formatTime = (date: Date) => {
     return date.toLocaleTimeString("en-US", {
@@ -36,7 +36,7 @@ export function useChat() {
                         setSessionId(storedSessionId);
                         setMessages(JSON.parse(storedMessages));
                     }
-                } catch (error) {}
+                } catch (error) { }
             }
             setIsInitializing(false);
         };

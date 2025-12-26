@@ -1,8 +1,8 @@
 export const FAQ_KNOWLEDGE = `
-## Store Information - Rhyri Electronics
+## Store Information - AliX Electronics
 
 ### About Us
-Rhyri is an online electronics store specializing in smartphones, laptops, accessories, and smart home devices. We've been serving customers since 2019.
+AliX is an online electronics store specializing in smartphones, laptops, accessories, and smart home devices. We've been serving customers since 2019.
 
 ### Shipping Policy
 - **Free Shipping**: On all orders over $50 within the continental US
@@ -23,8 +23,8 @@ Rhyri is an online electronics store specializing in smartphones, laptops, acces
 
 ### Support Hours
 - **Live Chat**: Monday-Friday 9 AM - 8 PM EST, Saturday 10 AM - 6 PM EST
-- **Phone Support**: Monday-Friday 9 AM - 6 PM EST at 1-800-RHYRI
-- **Email Support**: support@rhyri.com (24-48 hour response time)
+- **Phone Support**: Monday-Friday 9 AM - 6 PM EST at 1-800-AliX
+- **Email Support**: support@AliX.com (24-48 hour response time)
 - **Closed**: Sundays and major US holidays
 
 ### Payment Methods
@@ -39,12 +39,12 @@ Rhyri is an online electronics store specializing in smartphones, laptops, acces
 - Damaged items must be reported within 48 hours of delivery
 
 ### Contact Information
-- Email: support@rhyri.com
-- Phone: 1-800-RHYRI (1-800-74947)
+- Email: support@AliX.com
+- Phone: 1-800-AliX (1-800-74947)
 - Address: 123 Innovation Drive, San Francisco, CA 94105
 `;
 
-export const SYSTEM_PROMPT = `You are a friendly and helpful customer support agent for Rhyri, an online electronics store. Your name is Rhyri.
+export const SYSTEM_PROMPT = `You are a friendly and helpful customer support agent for AliX, an online electronics store. Your name is AliX.
 
 Format your responses using markdown for better readability, such as bullet points for lists, bold for emphasis, and structured formatting.
 

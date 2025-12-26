@@ -1,7 +1,7 @@
 {
     "name": "spur_frontend",
     "version": "0.1.0",
-    "Author": "rhythm_italiya",
+    "Author": "AliX",
     "private": true,
     "dependencies": {
         "@radix-ui/react-tooltip": "^1.0.7",

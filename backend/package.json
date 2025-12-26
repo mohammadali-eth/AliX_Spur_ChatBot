@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Founding Full‑Stack Engineer Take‑Home Assignment Backend",
   "main": "dist/index.js",
-  "Author": "rhythm_italiya",
+  "Author": "AliX",
   "_moduleAliases": {
     "@": "dist"
   },
@@ -14,7 +14,7 @@
     "format": "prettier --write \"src/**/*.{ts,js,json}\""
   },
   "keywords": [],
-  "author": "",
+  "author": "AliX",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
